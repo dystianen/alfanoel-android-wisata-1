@@ -1,6 +1,5 @@
-package com.example.android_wisata_indonesia_1.ui.theme
+package com.example.wisata_indonesia_1.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

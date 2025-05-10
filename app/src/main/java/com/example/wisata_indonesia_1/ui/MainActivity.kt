@@ -1,4 +1,4 @@
-package com.example.android_wisata_indonesia_1.ui
+package com.example.wisata_indonesia_1.ui
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,8 +8,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentTransaction
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.android_wisata_indonesia_1.R
-import com.example.android_wisata_indonesia_1.model.Wisata
+import com.example.wisata_indonesia_1.R
+import com.example.wisata_indonesia_1.model.Wisata
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity : AppCompatActivity() {

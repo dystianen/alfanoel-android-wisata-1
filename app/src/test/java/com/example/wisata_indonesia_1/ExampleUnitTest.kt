@@ -1,4 +1,4 @@
-package com.example.android_wisata_indonesia_1
+package com.example.wisata_indonesia_1
 
 import org.junit.Test
 

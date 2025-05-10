@@ -1,4 +1,4 @@
-package com.example.android_wisata_indonesia_1.ui
+package com.example.wisata_indonesia_1.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import androidx.fragment.app.Fragment
-import com.example.android_wisata_indonesia_1.R
-import com.example.android_wisata_indonesia_1.databinding.FragmentDetailWisataBinding
+import com.example.wisata_indonesia_1.R
+import com.example.wisata_indonesia_1.databinding.FragmentDetailWisataBinding
 
 class InfoWisataFragment : Fragment() {
 

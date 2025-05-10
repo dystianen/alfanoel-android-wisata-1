@@ -1,11 +1,11 @@
-package com.example.android_wisata_indonesia_1.ui
+package com.example.wisata_indonesia_1.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.android_wisata_indonesia_1.databinding.FragmentMainBinding
+import com.example.wisata_indonesia_1.databinding.FragmentMainBinding
 
 class MainFragment : Fragment() {
 

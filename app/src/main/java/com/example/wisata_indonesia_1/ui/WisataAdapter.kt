@@ -1,12 +1,12 @@
-package com.example.android_wisata_indonesia_1.ui
+package com.example.wisata_indonesia_1.ui
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.android_wisata_indonesia_1.R
-import com.example.android_wisata_indonesia_1.model.Wisata
+import com.example.wisata_indonesia_1.R
+import com.example.wisata_indonesia_1.model.Wisata
 
 class WisataAdapter(
     private val onItemSelected: (Wisata) -> Unit

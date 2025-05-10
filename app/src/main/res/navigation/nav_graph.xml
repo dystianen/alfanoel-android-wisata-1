@@ -6,16 +6,16 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.example.android_wisata_indonesia_1.ui.MainFragment"
+        android:name="com.example.wisata_indonesia_1.ui.MainFragment"
         android:label="Main Fragment" />
 
     <fragment
         android:id="@+id/infoWisataFragment"
-        android:name="com.example.android_wisata_indonesia_1.ui.InfoWisataFragment"
+        android:name="com.example.wisata_indonesia_1.ui.InfoWisataFragment"
         android:label="fragment_info_wisata">
         <argument
             android:name="wisata"
-            app:argType="com.example.android_wisata_indonesia_1.model.Wisata" />
+            app:argType="com.example.wisata_indonesia_1.model.Wisata" />
     </fragment>
 
 </navigation>

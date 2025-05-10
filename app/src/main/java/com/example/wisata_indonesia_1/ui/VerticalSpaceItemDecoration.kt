@@ -1,4 +1,4 @@
-package com.example.android_wisata_indonesia_1.ui
+package com.example.wisata_indonesia_1.ui
 
 import android.graphics.Rect
 import android.view.View

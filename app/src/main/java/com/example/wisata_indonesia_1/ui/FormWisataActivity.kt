@@ -1,4 +1,4 @@
-package com.example.android_wisata_indonesia_1.ui
+package com.example.wisata_indonesia_1.ui
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.android_wisata_indonesia_1.R
+import com.example.wisata_indonesia_1.R
 
 class FormWisataActivity : AppCompatActivity() {
     private lateinit var inputNama: EditText

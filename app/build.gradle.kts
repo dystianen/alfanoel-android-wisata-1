@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.android_wisata_indonesia_1"
+    namespace = "com.example.wisata_indonesia_1"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.android_wisata_indonesia_1"
+        applicationId = "com.example.wisata_indonesia_1"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

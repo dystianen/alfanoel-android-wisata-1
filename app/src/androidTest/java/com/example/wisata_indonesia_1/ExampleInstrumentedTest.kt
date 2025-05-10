@@ -1,4 +1,4 @@
-package com.example.android_wisata_indonesia_1
+package com.example.wisata_indonesia_1
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
