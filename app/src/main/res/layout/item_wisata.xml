@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/containerCard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/item_bg"
+    android:padding="16dp"
+    android:layout_marginVertical="8dp"
+    android:elevation="2dp">
+
+    <!-- Judul Wisata -->
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama Wisata"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="#345B94" />
+
+    <!-- Deskripsi Wisata -->
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Deskripsi singkat wisata."
+        android:textSize="14sp"
+        android:textColor="#444444"
+        android:layout_marginTop="4dp" />
+
+    <!-- Lokasi Wisata -->
+    <TextView
+        android:id="@+id/tvLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lokasi: Ngawi"
+        android:textSize="14sp"
+        android:textColor="#888888"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android-wisata-indonesia-1</string>
+    <string name="tambah_wisata">Tambah Wisata</string>
+    <string name="wisata_indonesia">Wisata Indonesia</string>
+    <string name="name">Name</string>
+    <string name="task">Task</string>
+    <string name="save">Save</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+</resources>

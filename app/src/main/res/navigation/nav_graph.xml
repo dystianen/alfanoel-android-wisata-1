@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.android_wisata_indonesia_1.ui.MainFragment"
+        android:label="Main Fragment" />
+
+    <fragment
+        android:id="@+id/infoWisataFragment"
+        android:name="com.example.android_wisata_indonesia_1.ui.InfoWisataFragment"
+        android:label="fragment_info_wisata">
+        <argument
+            android:name="wisata"
+            app:argType="com.example.android_wisata_indonesia_1.model.Wisata" />
+    </fragment>
+
+</navigation>
