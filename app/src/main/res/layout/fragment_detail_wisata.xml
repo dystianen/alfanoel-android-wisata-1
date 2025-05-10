@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:text="Wisata 1"
             android:textSize="22sp"
-            android:textColor="#4A7EBB"
+            android:textColor="#70bf00"
             android:textStyle="bold"
             android:gravity="center"
             android:paddingBottom="16dp" />
@@ -39,7 +39,7 @@
                 android:layout_height="wrap_content"
                 android:text="Lokasi"
                 android:textStyle="bold"
-                android:textColor="#4A7EBB"
+                android:textColor="#70bf00"
                 android:textSize="14sp"
                 android:layout_marginBottom="4dp"/>
 
@@ -68,7 +68,7 @@
                 android:layout_height="wrap_content"
                 android:text="Deskripsi"
                 android:textStyle="bold"
-                android:textColor="#4A7EBB"
+                android:textColor="#70bf00"
                 android:textSize="14sp"
                 android:layout_marginBottom="4dp"/>
 
@@ -86,7 +86,7 @@
             android:id="@+id/btnBack"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:backgroundTint="#4F80B4"
+            android:backgroundTint="#70bf00"
             android:text="Kembali"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
