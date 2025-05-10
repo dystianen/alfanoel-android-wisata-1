@@ -16,7 +16,7 @@
         android:text="Nama Wisata"
         android:textStyle="bold"
         android:textSize="18sp"
-        android:textColor="#70bf00" />
+        android:textColor="@color/brown_500" />
 
     <!-- Deskripsi Wisata -->
     <TextView
